@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644050996516",
+    "project_id": "fir-quotes-9050b",
+    "storage_bucket": "fir-quotes-9050b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644050996516:android:9b9fa72dc295299787f7b1",
+        "android_client_info": {
+          "package_name": "com.camilordgz.appfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRfl8z9J9quFzO92zOp6PPxvmCpIqn_5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
